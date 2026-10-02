@@ -74,4 +74,4 @@ Through this project, I learned how to create mobile UI layouts in Figma, establ
 **Raktima Paul**
 
 BCA Data Science  
-Presidency University Bangalore
+Presidency University Bangalore.
